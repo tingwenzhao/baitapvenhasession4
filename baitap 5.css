@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.background {
+    background-color: rgb(216, 238, 196);
+    color: black;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: chocolate;
+    padding: 15px;
+}
+.text-coral {
+    color: rgb(240, 158, 128);
+}
